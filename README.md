@@ -14,4 +14,4 @@ A simple Python-based desktop application to manage daily expenses with a basic 
 - Tkinter (GUI)
 - File Handling
 
-## 📂 Project Structure
+
